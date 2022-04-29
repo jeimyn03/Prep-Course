@@ -1,4 +1,4 @@
-# Homework: Git
+# Homework: Gi
 
 ### Pre-requisitos
 

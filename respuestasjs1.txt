@@ -1,0 +1,16 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+*VARIABLE: las variables se pueden ilustrar como cajas donde dentro de este espacio ira algo.
+*STRINGS: estas son textos o cadenas de textos tambien podriamos decir que es todo lo que ira dentro "".
+*FUNCIONES: son objetos los cuales podemos invocar para hacer algo con ellas; Argumentos: son aquellos que acompañan a una funcion
+dentro de un parentesis aca tambien podemos declarar variables, podemos incluir varios ragumentos separados por comas; Return:
+basicamente es devolver algo, tener en cuenta que el codigo bajo el return no va a funcionar y las funciones solo se pueden retornar
+una sola vez.
+*DECLARACIONES: son instrucciones que se deben ejecutar, se pueden declarar variables o funciones y estas pueden ser valores, operadores, expresiones, palabras claves; IF: permite condicionar y es una condicion verdadera.
+*VALORES BOOLEANOS: son los que le agregan logica al codigo pueden ser de tipo true o false.
